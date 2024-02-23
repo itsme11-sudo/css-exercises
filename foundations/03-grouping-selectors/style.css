@@ -1,0 +1,25 @@
+.btn {
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+    font-size: 28px;
+    border-radius: 5px;
+}
+
+.btn.primary {
+    background-color: #61afdb;
+    color: #fff;
+    border: none;
+}
+
+
+
+.btn.second-primary {
+    background: transparent;
+    border-color: #61afdb;
+    
+    border: 1px solid #61afdb ;
+    color: #61afdb;
+}
+
+.btn:hover{
+    background: #3398d3;
+}
